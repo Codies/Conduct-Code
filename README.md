@@ -1,12 +1,12 @@
 #Codies- Código  de conducta
 
-1. **Proposito**
+**Proposito**
 
 Uno de los objetivos principales de Codies es ser inclusiva para el mayor número de contribuyentes, con la mayor diversidad de orígenes posibles. Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y acogedor para todos, independientemente de su sexo, orientación sexual, capacidad, etnia, nivel socioeconómico, y religión (o falta de la misma).
 Este código de conducta resume nuestras expectativas para todos los que participan en nuestra comunidad, así como las consecuencias para el comportamiento inaceptable.
 Invitamos a todos los que participan en Codies a que nos ayuden a crear experiencias seguras y positivas para todos.
 
-2. **Comportamiento esperado**
+**Comportamiento esperado**
 
 * Participa de manera auténtica y activa. Al hacerlo, contribuyes a la salud y la longevidad de esta comunidad.
 * Ejercita la consideración y el respeto en tus comunicaciones y acciones.
@@ -14,23 +14,23 @@ Invitamos a todos los que participan en Codies a que nos ayuden a crear experien
 * Absténte de adoptar una conducta y un lenguaje degradantes, discriminatorios, abusivos o acosadores.
 * Sé consciente de tu entorno y de tus compañeros participantes. Alerta a líderes de la comunidad si notas una situación peligrosa, alguien en apuros, o violaciones de este Código de Conducta, incluso si parecen intrascendentes.
 
-3. **Comportamiento inaceptable**
+**Comportamiento inaceptable**
 
 Comportamientos inaceptables incluyen: intimidación, acoso, abuso, discriminación, comunicación despectiva o degradante o acciones por cualquier participante en nuestra comunidad ya sea en internet, en todos los eventos relacionados y en las comunicaciones uno-a-uno que se realizan en el contexto de los negocios de la comunidad. Es posible que los lugares para eventos comunitarios sean de uso compartido con los miembros del público; por favor ser respetuoso con todos aquellos que los frecuentan.
 El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos relacionados con el género, la orientación sexual, raza, religión, discapacidad; uso inadecuado de desnudos y / o imágenes sexuales en espacios públicos (incluyendo la presentación diapositivas); intimidación deliberada, acecho o seguimiento; fotografías o grabaciones acosadoras; interrupción sostenida de charlas y otros eventos; contacto físico inapropiado, y atención sexual no deseada.
 
-4. **Consecuencias de comportamiento inaceptable**
+**Consecuencias de comportamiento inaceptable**
 
 El comportamiento inaceptable de cualquier miembro de la comunidad, incluyendo patrocinadores y aquellos con poder de decisión, no será tolerado.
 Se espera que personas a quienes se les solicite que detengan su comportamiento inaceptable lo hagan de manera inmediata.
 Si un miembro de la comunidad participa en una conducta inaceptable, los organizadores comunitarios pueden tomar cualquier acción que consideren apropiada, hasta e incluyendo una prohibición temporal o expulsión permanente de la comunidad, sin previo aviso (y sin derecho a reembolso en el caso de un evento de pago).
 
-5. **Si usted es testigo o es objeto de comportamiento inaceptable**
+**Si usted es testigo o es objeto de comportamiento inaceptable**
 
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier inquietud, por favor comunícate con un organizador del meetup lo antes posible. (Necesito correo Codies)
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar a miembros de la comunidad a contactar a la policía local o interceder para que víctimas de comportamiento inaceptable se sientan seguros.
 
-6. **Políticas de moderación**
+**Políticas de moderación**
 
 Estas son las políticas para mantener los estándares de conducta en nuestra comunidad en los canales de chat, meetups asociados, conferencias, grupos de estudio, y eventos virtuales.
 
@@ -49,14 +49,14 @@ Todo el mundo busca harmonía y todos estamos aquí, ante todo, porque queremos 
 
 [Adaptado de la Política de Moderación de Rust] (https://github.com/rust-lang/rust#moderation)
 
-7. **Alcance**
+**Alcance**
 
 Esperamos que todos los participantes de la comunidad (contribuyentes, pagados o de otro modo; patrocinadores; y otros invitados) se atengan a este Código de Conducta en todos los espacios virtuales y presenciales, así como en todas las comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 
-8. **Licencia**
+**Licencia**
 
-Este Código de Conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
-Adaptado del Código de Conducta de [Stumptown Syndicate](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)
-Adaptado del Código  de Conducta de [Colombia.dev](https://github.com/colombia-dev/codigo-de-conducta)
+* Este Código de Conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
+* Adaptado del Código de Conducta de [Stumptown Syndicate](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)
+* Adaptado del Código  de Conducta de [Colombia.dev](https://github.com/colombia-dev/codigo-de-conducta)
 
 
