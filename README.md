@@ -1,6 +1,6 @@
 #Codies- Código  de conducta
 
-**Proposito**
+**Propósito**
 
 Uno de los objetivos principales de Codies es ser inclusiva para el mayor número de contribuyentes, con la mayor diversidad de orígenes posibles. Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y acogedor para todos, independientemente de su sexo, orientación sexual, capacidad, etnia, nivel socioeconómico, y religión (o falta de la misma).
 Este código de conducta resume nuestras expectativas para todos los que participan en nuestra comunidad, así como las consecuencias para el comportamiento inaceptable.
@@ -27,15 +27,15 @@ Si un miembro de la comunidad participa en una conducta inaceptable, los organiz
 
 **Si usted es testigo o es objeto de comportamiento inaceptable**
 
-Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier inquietud, por favor comunícate con un organizador del meetup lo antes posible. (Necesito correo Codies)
-Adicionalmente, los organizadores comunitarios están disponibles para ayudar a miembros de la comunidad a contactar a la policía local o interceder para que víctimas de comportamiento inaceptable se sientan seguros.
+Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier inquietud, por favor comunícate con un organizador de la comunidad lo antes posible. (Necesito correo Codies)
+Adicionalmente, los organizadores están disponibles para ayudar a miembros de la comunidad a contactar a la policía local o interceder para que víctimas de comportamiento inaceptable se sientan seguros.
 
 **Políticas de moderación**
 
 Estas son las políticas para mantener los estándares de conducta en nuestra comunidad en los canales de chat, meetups asociados, conferencias, grupos de estudio, y eventos virtuales.
 
-* Palabras que violen las normas de Código de Conducta, incluyendo comentarios odiosos, hirientes, opresivos, o excluyentes, no están permitidos. (Se permite las "malas palabras", pero nunca enfocadas hacia otro usuario/asistente, y nunca de una manera odiosa.)
-* Comentarios que los organizadores encuentran inapropiados tampoco están permitidos, así aparezcan en el código de conducta o no.
+* Palabras que violen las normas de Código de Conducta, incluyendo comentarios odiosos, hirientes, opresivos, o excluyentes, no están permitidos. (Se permite las "malas palabras", pero nunca enfocadas hacia otro usuario/asistente, y nunca de una manera grosera.)
+* Comentarios que los organizadores encuentran inapropiados tampoco están permitidos, así no aparezcan en el código de conducta.
 * Los organizadores primero deberán responder a dichos comentarios con una advertencia.
 * Si la advertencia es ignorada, el usuario/asistente será expulsado del canal para que evalúe su comportamiento, o deberá retirarse del lugar por 30 minutos en caso de eventos presenciales.
 * Si el usuario/asistente regresa y continúa causando problemas, será expulsado del grupo/evento/lugar/Slack de forma indefinida.
@@ -45,7 +45,7 @@ Estas son las políticas para mantener los estándares de conducta en nuestra co
 
 En la comunidad Codies nos esforzamos por ir un paso más allá y cuidar el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate también de ser la mejor persona posible. En particular, evite tocar temas ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a menudo conduce a peleas innecesarias, sentimientos heridos, y a daños en la confianza; peor aún, puede conducir a que personas se alejen de la comunidad en su totalidad.
 De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo, resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo que fuera que causó la queja y pida disculpas. Hay buenas probabilidades de que usted se pudo haber comunicado mejor, incluso si usted siente que fue malinterpretado o injustamente acusado, - recuerde que es su responsabilidad hacer que sus compañeras y compañeros de Codies  estén cómodos.
-Todo el mundo busca harmonía y todos estamos aquí, ante todo, porque queremos hablar de tecnologías que nos gustan. Por lo general, la gente está dispuesta a asumir buenas intenciones y perdonar, siempre y cuando usted gane su confianza y actúe de forma honrada.
+Todo el mundo busca armonía y todos estamos aquí, ante todo, porque queremos hablar de tecnologías que nos gustan. Por lo general, la gente está dispuesta a asumir buenas intenciones y perdonar, siempre y cuando usted gane su confianza y actúe de forma honrada.
 
 [Adaptado de la Política de Moderación de Rust] (https://github.com/rust-lang/rust#moderation)
 
